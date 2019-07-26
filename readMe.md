@@ -1,4 +1,6 @@
-# Better Professor App - LambdaSchool Build Week - July 2019
+# Better Professor App
+
+LambdaSchool Build Week - July 2019
 
 ## Contributors
 
