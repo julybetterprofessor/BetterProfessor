@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/50966025/61998818-49f88300-b07b-11e9-90a1-ef7b3cfa6859.png)
 # Better Professor App
 
 LambdaSchool Build Week - July 2019
@@ -22,3 +23,4 @@ An app to help professors remeber important dates and deadlines for:
 * Student project deadlines
 * Feedback deadline
 * Letter of recommendation deadlines
+* And more.
