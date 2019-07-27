@@ -21,6 +21,6 @@ LambdaSchool Build Week - July 2019
 An app to help professors remeber important dates and deadlines for:
 
 * Student project deadlines
-* Feedback deadline
+* Feedback deadlines
 * Letter of recommendation deadlines
 * And more.
